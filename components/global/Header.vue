@@ -56,10 +56,10 @@ export default {
 /* Need two because of smoother switching between color modes */
 @keyframes fadeIn1 {
   from { opacity: 0; }
-  to { opacity: 1; }
+  to { opacity: 3; }
 }
 @keyframes fadeIn2 {
   from { opacity: 0; }
-  to { opacity: 1; }
+  to { opacity: 3; }
 }
 </style>
